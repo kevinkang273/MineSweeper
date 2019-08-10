@@ -2,10 +2,12 @@
 
 First install node modules by typing npm install.
 
+Then run npm run build to transpile code into lib directory.
+
 To play Minesweeper, create instances of MineSweeperGame in command line.
 For example:
 
-In command line, navigate to the src directory and run `node`
+In command line, navigate to the lib directory and run `node`
 
 Run `.load game.js` to load the contents of this file.
 
