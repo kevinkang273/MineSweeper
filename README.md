@@ -1,5 +1,7 @@
 # MineSweeper
 
+First install node modules by typing npm install.
+
 To play Minesweeper, create instances of MineSweeperGame in command line.
 For example:
 In command line, navigate to the src directory and run `node`
